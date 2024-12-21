@@ -158,3 +158,8 @@ footer p{
     height: 30px;
     border-radius: 12px;
 }
+.a1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}

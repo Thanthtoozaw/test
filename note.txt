@@ -1,0 +1,6 @@
+git init
+git remove .....
+git add .
+git commit -m "commit name"
+git brach
+git push -u origin master
